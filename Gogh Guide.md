@@ -49,8 +49,7 @@ Hide Hunter (Summer Camp 2020)|Star bomb | Gives you a star bomb right away to l
 Any 50% starting | At least 50% Starting NP Gauge| For when you want to get off your NP turn 1 and don't have anything better.
 Immaginary Around (General Pool) | |Super charge those quicks since you'll be pressing it a lot. If starting charge isn't a problem and you plan on having Gogh as the main dps, this will help increase her facecard damage and np gen aka the main source of your damage.
 Honey Lake (Summer 5 Gacha) | |If you're willing to devote your burn command codes to Gogh or glue yourself to Yang, this CE is amazing. Unique Mod is multiplicative and will do a lot more to your damage than Crit (diluted by Gogh's NP) and Card Ups. If you don't need the starting NP, and can run the command codes, would absolutely recommend it
-Self Portrait at Chaldea (Bond CE) |When equipped on Van Gogh, Grants self "Gain 8 Critical Stars/turn" Status, and increases the party's Critical Damage by 15%, for as long as she is on the field
- |Functionally a 2030 with a bonus party crit buff. It's neat. Gogh's bond is only 6, please ask again next year...
+Self Portrait at Chaldea (Bond CE) |When equipped on Van Gogh, Grants self "Gain 8 Critical Stars/turn" Status, and increases the party's Critical Damage by 15%, for as long as she is on the field|Functionally a 2030 with a bonus party crit buff. It's neat. Gogh's bond is only 6, please ask again next year...
 
 ## Command Code
 
@@ -67,7 +66,7 @@ True Crimson Immortal Maiden's Command Seal (Summer Camp 2020) | Inflicts Burn w
 Meteoric Bellows (Grail Live) | Inflicts Burn with 500 damage for 3 turns to the enemy when attacking using the engraved card. Increases critical star absorption by 50% of the engraved card. | Burn Code
 Magus of FLowers (Las Vegas Official Bout) | Can only use once every 3 turns, charges own NP gauge by 10% when attacking with engraved card. | Put it on Gogh's buster card to ensure you'll be getting gauge no matter what button is pressed.
 
-How many burn codes should I run?
+#### How many burn codes should I run?
 There's multiple things to consider here. Do you have your own Yang? How much will you prioritize Gogh's face cards over the rest of the team (like say S.BB). I've generally found on Gogh focused team with no Yang that three does just fine.
 
 
