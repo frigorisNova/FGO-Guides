@@ -28,7 +28,7 @@ By the nature of her 3rd skill, you'll want to press her quick cards the most. H
 ## Skills and NP
 
 Name | Effect | Comments
-------------------------
+-----|---------|----------
 Void Space Fine Arts+|  Grants self Guts (1000-3000HP) status for 1 time, 5 turns and grants her 3 Curse stacks of 100 damage each at 500% then charge NP based on number of curse stacks (5-10%) CD:8/7/6 |If you have this properly levelled (aka max) it's effectively a 60% battery used after her 2 and 3.. The guts only has a downtime of 1 turn too at max level which is very nice.
 Het Gele Huis: The Yellow House A+| CD:7/6/5|The party regen helps with mitigating the damage loss from curse but you'll likely absorb them with her 3 so functionally this is more 3 additional stacks of curse to Gogh.
 Soul of Water Channels EX| A targeted attack and starweight buff to an ally, Grants self curse removal on Quick Card and for each successful curse removed, attack up (10%, 3 Turns) to self. Absorbs all curses from party and enemy to self. CD7:/6/5 | The reason you want to be pressing her quick cards and also absorbs the curse stacks from the party (along with any additional ones from your enemies) with her 2. If you have another focus dps (Summer BB) you can choose to buff that dps instead as well.
